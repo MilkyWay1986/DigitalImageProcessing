@@ -1,3 +1,0 @@
-/root/Desktop/STADY/Signals/lab_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/root/Desktop/STADY/Signals/lab_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/root/Desktop/STADY/Signals/lab_3/cmake-build-debug/CMakeFiles/lab_3.dir
