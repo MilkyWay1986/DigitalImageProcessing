@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Desktop/STADY/Signals/lab_1/Gauss.cpp
+Gauss.h
+/root/Desktop/STADY/Signals/lab_1/Gauss.h
+
+/root/Desktop/STADY/Signals/lab_1/Gauss.h
+opencv4/opencv2/imgcodecs.hpp
+-
+opencv4/opencv2/highgui.hpp
+-
+opencv4/opencv2/core.hpp
+-
+opencv4/opencv2/imgproc/imgproc.hpp
+-
+string
+-
+
+/root/Desktop/STADY/Signals/lab_1/main.cpp
+Gauss.h
+/root/Desktop/STADY/Signals/lab_1/Gauss.h
+

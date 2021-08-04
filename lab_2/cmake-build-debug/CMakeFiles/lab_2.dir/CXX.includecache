@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Desktop/STADY/Signals/lab_2/Bredly.cpp
+Bredly.h
+/root/Desktop/STADY/Signals/lab_2/Bredly.h
+
+/root/Desktop/STADY/Signals/lab_2/Bredly.h
+iostream
+-
+memory
+-
+Otsy.h
+/root/Desktop/STADY/Signals/lab_2/Otsy.h
+
+/root/Desktop/STADY/Signals/lab_2/Otsy.cpp
+Otsy.h
+/root/Desktop/STADY/Signals/lab_2/Otsy.h
+iostream
+-
+
+/root/Desktop/STADY/Signals/lab_2/Otsy.h
+opencv4/opencv2/imgcodecs.hpp
+-
+opencv4/opencv2/highgui.hpp
+-
+opencv4/opencv2/core.hpp
+-
+opencv4/opencv2/imgproc/imgproc.hpp
+-
+map
+-
+
+/root/Desktop/STADY/Signals/lab_2/main.cpp
+Otsy.h
+/root/Desktop/STADY/Signals/lab_2/Otsy.h
+Bredly.h
+/root/Desktop/STADY/Signals/lab_2/Bredly.h
+string
+-
+
